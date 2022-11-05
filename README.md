@@ -14,10 +14,10 @@ pip install nbdev_hello_world
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+Module that says hello!
 
 ``` python
-1+1
+say_hello('Brian')
 ```
 
-    2
+    'Hello Brian!'
